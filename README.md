@@ -7,10 +7,11 @@ Android Hotspot Captive Portal
 #solution
 অবশ্যই আপনার সম্পূর্ণ ফাইলগুলোর পারমিশন দেখে নিবেন। 
 মূলত ফাইলগুলোর পারমিশন যদি এরকম থাকে:
-![Screenshot_2023-10-16-16-12-55-634_com termux](https://github.com/masshuvo/hotspot_captive_portal/assets/108648096/9a76bf43-a902-484b-a25b-2376f5ab97fc)
-তাহলেই উপরের দেখানো স্ক্রিনশটের সমস্যাটি দেখাবে।
-<code> chmod o+w * </code> এই কোডটি এক্সিকিউট করার মাধ্যমে ফাইলগুলো পারমিশন পরিবর্তন হবে: 
 
 ![Screenshot_2023-10-16-16-13-17-704_com termux](https://github.com/masshuvo/hotspot_captive_portal/assets/108648096/faf9b2fa-79fb-488d-bba3-e8a05ed86b9e)
+
+তাহলেই উপরের দেখানো স্ক্রিনশটের সমস্যাটি দেখাবে।
+<code> chmod o+w * </code> এই কোডটি এক্সিকিউট করার মাধ্যমে ফাইলগুলো পারমিশন পরিবর্তন হবে: 
+![Screenshot_2023-10-16-16-12-55-634_com termux](https://github.com/masshuvo/hotspot_captive_portal/assets/108648096/9a76bf43-a902-484b-a25b-2376f5ab97fc)
 
 এখন ঠিকভাবে রান করবে।
